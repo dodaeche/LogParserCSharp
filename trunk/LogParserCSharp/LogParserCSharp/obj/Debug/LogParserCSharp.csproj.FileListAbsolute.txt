@@ -1,0 +1,7 @@
+F:\测试项目\LogParserCSharp\LogParserCSharp\obj\Debug\ResolveAssemblyReference.cache
+F:\测试项目\LogParserCSharp\LogParserCSharp\bin\Debug\LogParserCSharp.dll
+F:\测试项目\LogParserCSharp\LogParserCSharp\bin\Debug\LogParserCSharp.pdb
+F:\测试项目\LogParserCSharp\LogParserCSharp\obj\Debug\Interop.MSUtil.dll
+F:\测试项目\LogParserCSharp\LogParserCSharp\obj\Debug\LogParserCSharp.csproj.ResolveComReference.cache
+F:\测试项目\LogParserCSharp\LogParserCSharp\obj\Debug\LogParserCSharp.dll
+F:\测试项目\LogParserCSharp\LogParserCSharp\obj\Debug\LogParserCSharp.pdb
